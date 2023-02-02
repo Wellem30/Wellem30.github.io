@@ -1,0 +1,27 @@
+.jumbotron {
+  /* padding: 2rem 1rem; */
+  padding-top: 120px;
+  margin-bottom: -20px;
+  background-color: #fff;
+}
+
+.jumbotron img {
+  width: 150px;
+  height: 150px;
+}
+
+#about {
+  background-color: #fa7373;
+}
+
+#project {
+  background-color: #fff;
+}
+
+#contact {
+  background-color: #fa7373;
+}
+
+section {
+  padding-top: 70px;
+}
