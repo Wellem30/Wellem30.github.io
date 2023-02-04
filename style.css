@@ -18,8 +18,21 @@
   background-color: #fff;
 }
 
-#contact {
+#gallery {
   background-color: #fa7373;
+}
+
+.container .imgku {
+  width: 300px;
+  height: 300px;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
+
+#contact {
+  background-color: #fff;
 }
 
 section {
